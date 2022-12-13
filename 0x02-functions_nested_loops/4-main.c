@@ -15,6 +15,22 @@ int main(void)
 
 	_putchar(r + '0');
 
+	r = _isalpha('&');
+
+	_putchar(r + '0');
+
+	r = _isalpha('F');
+
+	_putchar(r + '0');
+
+	r = _isalpha('M');
+
+	_putchar(r + '0');
+
+	r = _isalpha('C');
+
+	_putchar(r + '0');
+
 	r = _isalpha('o');
 
 	_putchar(r + '0');
@@ -29,5 +45,5 @@ int main(void)
 
 	_putchar('\n');
 
-	return (0); 
+	return (0);
 }
