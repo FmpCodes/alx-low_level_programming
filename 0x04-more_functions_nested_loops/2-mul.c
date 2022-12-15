@@ -1,4 +1,3 @@
-lines (14 sloc)  185 Bytes
 #include "main.h"
 /**
  *mul - multiplies two ints.
@@ -7,6 +6,7 @@ lines (14 sloc)  185 Bytes
  *
  *Return: product.
  */
+
 int mul(int a, int b)
 {
 	int product;
